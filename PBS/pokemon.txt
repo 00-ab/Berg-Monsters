@@ -159,7 +159,7 @@ Generation = 1
 [SQUIRTLE]
 Name = Squirtle
 Types = WATER
-BaseStats = 44,48,65,43,50,64
+BaseStats = 75,79,96,74,81,95
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 63
@@ -523,7 +523,7 @@ WildItemUncommon = CHILANBERRY
 [SPEAROW]
 Name = Spearow
 Types = NORMAL,FLYING
-BaseStats = 40,60,30,70,31,31
+BaseStats = 81,101,71,111,71,72
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 52
@@ -577,7 +577,7 @@ WildItemUncommon = SHARPBEAK
 [EKANS]
 Name = Ekans
 Types = POISON
-BaseStats = 35,60,44,55,40,54
+BaseStats = 76,101,85,96,81,95
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 58
@@ -1508,7 +1508,7 @@ Generation = 1
 [GROWLITHE]
 Name = Growlithe
 Types = FIRE
-BaseStats = 55,70,45,60,70,50
+BaseStats = 80,95,70,85,95,75
 GenderRatio = Female25Percent
 GrowthRate = Slow
 BaseExp = 70
@@ -1802,7 +1802,7 @@ WildItemUncommon = FOCUSBAND
 [BELLSPROUT]
 Name = Bellsprout
 Types = GRASS,POISON
-BaseStats = 50,75,35,40,70,30
+BaseStats = 83,108,68,73,103,63
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 60
@@ -4237,7 +4237,7 @@ Generation = 2
 [SENTRET]
 Name = Sentret
 Types = NORMAL
-BaseStats = 35,46,34,20,35,45
+BaseStats = 83,92,82,68,83,93
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 43
@@ -4659,7 +4659,7 @@ Evolutions = TOGEKISS,Item,SHINYSTONE
 [NATU]
 Name = Natu
 Types = PSYCHIC,FLYING
-BaseStats = 40,50,45,70,70,45
+BaseStats = 70,80,75,100,100,75
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 64
@@ -6865,7 +6865,7 @@ Generation = 3
 [POOCHYENA]
 Name = Poochyena
 Types = DARK
-BaseStats = 35,55,35,35,30,30
+BaseStats = 82,102,82,82,77,77
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 56

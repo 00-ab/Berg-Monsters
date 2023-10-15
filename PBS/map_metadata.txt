@@ -225,6 +225,7 @@ Outdoor = true
 Weather = Rain,30
 #-------------------------------
 [043]   # Cold Cave - 00
+Name = Cold Cave - 00
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -258,6 +259,7 @@ Environment = Rock
 #-------------------------------
 [048]   # Route 101-03-00
 Name = Route 101-03-00
+Outdoor = true
 Weather = Rain,30
 #-------------------------------
 [049]   # Rock Cave 1F
@@ -435,16 +437,19 @@ Bicycle = true
 Weather = Rain,40
 #-------------------------------
 [078]   # Cold River - 01
+Name = Cold River - 01
 Outdoor = true
 Bicycle = true
 Weather = Rain,40
 #-------------------------------
 [079]   # Cold River - 02
+Name = Cold River - 02
 Outdoor = true
 Bicycle = true
 Weather = Rain,40
 #-------------------------------
 [080]   # Route 101-05-00
+Name = Route 101-05-00
 Outdoor = true
 Bicycle = true
 Weather = Rain,40
